@@ -1,0 +1,1 @@
+function order(product){const phone='919999999999';const msg=encodeURIComponent('Hi Frame Craft, I want to order the '+product+'. Please share the available designs and delivery details.');window.open('https://wa.me/'+phone+'?text='+msg,'_blank');}

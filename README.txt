@@ -1,0 +1,1 @@
+Frame Craft starter website. Replace 919346200335 in index.html and script.js with your real WhatsApp/phone number. Replace the placeholder product areas with your photos.
